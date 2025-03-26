@@ -1,11 +1,11 @@
 # PsyFi - Secure Jekyll Hosting Platform
-# Version 1.0.4
+# Version 0.1.4-beta
 
 A comprehensive solution for hosting multiple Jekyll sites on a single server with automated deployments, HTTPS, and secure management.
 
 ## Table of Contents
 - [PsyFi - Secure Jekyll Hosting Platform](#psyfi---secure-jekyll-hosting-platform)
-- [Version 1.0.4](#version-104)
+- [Version 0.1.4-beta](#version-014-beta)
   - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Features](#features)
